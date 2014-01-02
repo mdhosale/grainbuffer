@@ -25,4 +25,4 @@ New features include:
 
 - The arbitrary limit on the grain pool was increased to allow for higher resolution grain densities. This coincides with processor performance improvements since the original creation of this object.
 
-- CAVEATS: while the object seems to compile properly in Windows, there was no system available to test the object... so use at your own risk. This will be confirmed/updated as soon as the opportunity arises.
+- CAVEATS: while the object seems to compile properly in Windows, there was no system available to test the object... so (in Windows) use at your own risk. This will be confirmed/updated as soon as the opportunity arises.

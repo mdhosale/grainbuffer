@@ -39,6 +39,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 20.0, 501.356049, 440.000671, 29.0 ],
 					"presentation_rect" : [ 16.5, 503.0, 0.0, 0.0 ],
+					
 					"text" : "* Note on output channels: Default (no argument for output channels) is Stereo Max 4 Live Compatiblity mode. This object will crash in M4L if a value is provided for this argument. "
 				}
 

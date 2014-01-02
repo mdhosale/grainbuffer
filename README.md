@@ -1,4 +1,4 @@
-grainbuffer-
+grainbuffer~
 ============
 
 grainbuffer~ is a MSP object that exploits the buffer~ object built into the Max/MSP environment.

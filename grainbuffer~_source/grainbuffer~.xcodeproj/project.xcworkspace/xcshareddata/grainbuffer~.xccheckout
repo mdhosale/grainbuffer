@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CFF918E7-4FEF-49DE-BB3E-61E9A3E56319</string>
+	<key>IDESourceControlProjectName</key>
+	<string>grainbuffer~</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>614F8A21-84ED-46EF-A938-2BD6E2EEC619</key>
+		<string>https://github.com/mdhosale/grainbuffer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>grainbuffer~_source/grainbuffer~.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>614F8A21-84ED-46EF-A938-2BD6E2EEC619</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mdhosale/grainbuffer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>614F8A21-84ED-46EF-A938-2BD6E2EEC619</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>614F8A21-84ED-46EF-A938-2BD6E2EEC619</string>
+			<key>IDESourceControlWCCName</key>
+			<string>grainbuffer~</string>
+		</dict>
+	</array>
+</dict>
+</plist>

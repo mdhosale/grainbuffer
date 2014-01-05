@@ -15,7 +15,7 @@
 #include "ext_buffer.h"	// this defines our buffer's data structure and other goodies
 #include <time.h>
 
-#define GRAIN_LIST_SIZE 4096
+#define GRAIN_LIST_SIZE 512
 #define MAX_OUTPUT_CHANNELS 32
 
 //enum for envelopetype

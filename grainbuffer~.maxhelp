@@ -33,14 +33,12 @@
 					"fontsize" : 10.0,
 					"frgb" : 0.0,
 					"id" : "obj-69",
-					"linecount" : 2,
+					"linecount" : 3,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 20.0, 501.356049, 440.000671, 29.0 ],
-					"presentation_rect" : [ 16.5, 503.0, 0.0, 0.0 ],
-					
-					"text" : "* Note on output channels: Default (no argument for output channels) is Stereo Max 4 Live Compatiblity mode. This object will crash in M4L if a value is provided for this argument. "
+					"patching_rect" : [ 20.0, 494.356049, 410.0, 40.0 ],
+					"text" : "* Note on output channels: Default (no argument for output channels) is Stereo Max 4 Live Compatiblity mode, which is the same as if the argument provided = 2. This object will crash in M4L if a another value is provided for this argument. "
 				}
 
 			}

@@ -1,0 +1,6 @@
+;grainbuffer~.def
+
+LIBRARY grainbuffer~.mxe
+
+EXPORTS
+	main

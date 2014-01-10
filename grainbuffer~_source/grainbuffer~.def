@@ -1,6 +1,0 @@
-;index~.def
-
-LIBRARY index~.mxe
-
-EXPORTS
-	main

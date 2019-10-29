@@ -657,7 +657,7 @@ t_double get_dur(t_grainbuffer *x){
 	t_double dur, random_value = (t_double) rand()/(t_double) RAND_MAX;
 	
 	if(x->grain_param.upper_dur == x->grain_param.lower_dur)
-        return x->grain_param.lower_dur;
+        dur = x->grain_param.lower_dur;
 	else if (x->grain_param.upper_dur > x->grain_param.lower_dur)
 		dur = ((x->grain_param.upper_dur - x->grain_param.lower_dur) * random_value) + x->grain_param.lower_dur;
 	else
